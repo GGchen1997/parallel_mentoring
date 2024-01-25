@@ -15,7 +15,6 @@ You can install the required dependencies using the following command:
 pip install -r requirements.txt
 ```
 
-$\eta$
 
 ## Reproducing Performance
 
